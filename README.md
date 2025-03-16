@@ -1,6 +1,6 @@
-# Install Ubuntu + XFCE4 di MacOS menggunakan XRDP Multipass
+# Install Ubuntu + Xfce di MacOS
 
-Kita bisa menggunakan multipass untuk membuat sebuah virtual machine Ubuntu dan menginstall XFCE. Kita dapat mengakses desktop XFCE ini melalui Remote Desktop.
+Kita bisa menggunakan multipass untuk membuat sebuah virtual machine Ubuntu dan menginstall Xfce. Kita dapat mengakses desktop Xfce ini melalui Remote Desktop Protocol.
 
 ## Mengapa?
 
