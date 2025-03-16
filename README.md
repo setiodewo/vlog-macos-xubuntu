@@ -89,14 +89,14 @@ Supaya audio bisa disalurkan ke Host (via pipewire), maka pastikan modul-modul p
 sudo apt list pipewire-*
 ```
 
-install juga pulseaudio & utils-nya.
+install juga pipewire-audio dan pipewire-pulse.
 
 ```
-sudo apt install pulseaudio pulseaudio-utils
+sudo apt install pipewire-audio pipewire-pulse
 sudo pulseaudio -k
 ```
 
-Kill pulseaudio dengan -k. Tapi jika belum berhasil, maka reboot VM dulu.
+Kill pulseaudio dengan -k, nanti akan jalan lagi. Tapi jika belum berhasil, maka reboot VM dulu.
 
 Catat IP dari VM untuk dapat diakses dari MacOS via Remote Desktop.
 
