@@ -96,7 +96,7 @@ sudo apt install pulseaudio pulseaudio-utils
 sudo pulseaudio -k
 ```
 
-Sudah direstart dgn -k. Tapi jika belum berhasil, maka reboot VM.
+Kill pulseaudio dengan -k. Tapi jika belum berhasil, maka reboot VM dulu.
 
 Catat IP dari VM untuk dapat diakses dari MacOS via Remote Desktop.
 
